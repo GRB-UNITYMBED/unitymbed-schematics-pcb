@@ -1,6 +1,6 @@
 # UnityMbed Hardware Design Assets
 
-Official open-source hardware design assets, circuit schematics, and multi-layer PCB production files for the **UnityMbed Starter (Nano)** and **UnityMbed Pro (UNO)** development boards.
+Official open-source hardware design assets, circuit schematics, and multi-layer PCB production files for the **UnityMbed Starter** and **UnityMbed Pro** development boards.
 
 ## 📂 Repository Structure
 
